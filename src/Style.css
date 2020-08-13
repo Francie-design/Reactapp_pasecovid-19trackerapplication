@@ -1,0 +1,38 @@
+
+
+.card {
+  /* Add shadows to create the "card" effect */
+  box-shadow: 0 8px 8px 0 rgb(248, 193, 193);
+  transition: 0.3s;
+  border-radius: 10px;
+}
+
+/* On mouse-over, add a deeper shadow */
+ .card:hover {
+  box-shadow: 0 8px 16px 0 rgb(248, 184, 184);
+} 
+
+/* Add some padding inside the card container */
+.container {
+  padding: 2px 16px;
+}
+
+
+p{
+    text-align: center;
+    color: red;
+}
+
+.myn{
+background-color:rgb(252, 210, 210) ;
+color:red;
+}
+#card{
+  box-shadow: 0 8px 8px 0 grey;
+  transition: 0.3s;
+  border-radius: 20px;
+}
+h5{
+  color: rgb(98, 102, 100);
+}
+
